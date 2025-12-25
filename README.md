@@ -19,7 +19,14 @@ const Sulyman = {
 ```
 
 ### 🛠 Tech Stack
-HTML • CSS • JavaScript • React • TypeScript • Redux • Tailwind CSS • Bootstrap
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 ### 🌟 Featured Projects
 
@@ -34,6 +41,16 @@ HTML • CSS • JavaScript • React • TypeScript • Redux • Tailwind CSS 
 - **Recipe Finder**  
   Search and explore recipes using an external API with a user-friendly interface.<br/>
   [Live Demo](https://web-find-recipes.netlify.app/) • [GitHub](https://github.com/SulymanKhalil/Recipe-Finder)
+
+### 📊 GitHub Stats
+![Sulyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=SulymanKhalil&show_icons=true&theme=tokyonight)
+
+### 🚀 Currently Learning
+- Advanced React patterns
+- Performance optimization
+- Clean frontend architecture
+
+![Profile Views](https://komarev.com/ghpvc/?username=SulymanKhalil&color=blue)
 
 ### 📫 Contact
 
