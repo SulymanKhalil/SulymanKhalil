@@ -20,7 +20,7 @@ const Sulyman = {
 
 ### 🛠 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
@@ -28,8 +28,12 @@ const Sulyman = {
 ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
-### 🌟 Featured Projects
+### 🚀 Currently Learning
+- Advanced React patterns
+- Performance optimization
+- Clean frontend architecture
 
+### 🌟 Featured Projects
 - **Notes App**  
   A simple notes application to create, edit, and manage notes efficiently.<br/>
   [Live Demo](https://notes-app-by-sulyman.netlify.app/) • [GitHub](https://github.com/SulymanKhalil/Notes-App)
@@ -42,18 +46,9 @@ const Sulyman = {
   Search and explore recipes using an external API with a user-friendly interface.<br/>
   [Live Demo](https://web-find-recipes.netlify.app/) • [GitHub](https://github.com/SulymanKhalil/Recipe-Finder)
 
-### 📊 GitHub Stats
-![Sulyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=SulymanKhalil&show_icons=true&theme=tokyonight)
-
-### 🚀 Currently Learning
-- Advanced React patterns
-- Performance optimization
-- Clean frontend architecture
-
-![Profile Views](https://komarev.com/ghpvc/?username=SulymanKhalil&color=blue)
+> Building reliable interfaces with clarity and purpose.
 
 ### 📫 Contact
-
 - **Email:** sulymankhalil.dev@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/sulyman-khalil-6269a6250/
 - **Phone:** +92 370 7843216
