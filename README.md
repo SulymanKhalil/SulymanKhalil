@@ -2,7 +2,8 @@
 <p align="center">
 Building scalable, production-ready web applications with clean architecture and modern tech
 </p>
-### 🚀 About me
+
+### 🚀 About Me
 I’m a Frontend / React Developer who enjoys building clean, responsive user interfaces. I work with modern JavaScript, React, and UI frameworks to turn ideas into functional, user-friendly web apps.
 
 ```js
@@ -15,3 +16,4 @@ const Sulyman = {
   openTo: ["Frontend Internships", "Collaborations", "Open Source Contributions"],
   hobbies: ["Cricket", "Reading", "Sketching"]
 };
+
