@@ -35,7 +35,7 @@ const Sulyman = {
 
 ### 🌟 Featured Projects
 - **Notes App**  
-  A simple notes application to create, edit, and manage notes efficiently.<br/>
+  A simple notes application to create, archive, and manage notes efficiently.<br/>
   [Live Demo](https://notes-app-by-sulyman.netlify.app/) • [GitHub](https://github.com/SulymanKhalil/Notes-App)
 
 - **Currency Converter**  
