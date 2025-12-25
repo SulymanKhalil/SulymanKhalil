@@ -16,4 +16,21 @@ const Sulyman = {
   openTo: ["Frontend Internships", "Collaborations", "Open Source Contributions"],
   hobbies: ["Cricket", "Reading", "Sketching"]
 };
+```
 
+### 🛠 Tech Stack
+HTML • CSS • JavaScript • React • TypeScript • Redux • Tailwind CSS • Bootstrap
+
+### 🌟 Featured Projects
+
+- **Notes App**  
+  A simple notes application to create, edit, and manage notes efficiently.
+  [Live Demo](https://notes-app-by-sulyman.netlify.app/) • [GitHub](https://github.com/SulymanKhalil/Notes-App)
+
+- **Currency Converter**  
+  React app for real-time currency conversion with a clean UI.
+  [Live Demo](https://convertcurrencyweb.netlify.app/) • [GitHub](https://github.com/SulymanKhalil/Currency-Converter)
+
+- **Recipe Finder**  
+  Search and explore recipes using an external API with a user-friendly interface.
+  [Live Demo](https://web-find-recipes.netlify.app/) • [GitHub](https://github.com/SulymanKhalil/Recipe-Finder)
