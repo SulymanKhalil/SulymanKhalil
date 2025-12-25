@@ -39,4 +39,4 @@ HTML • CSS • JavaScript • React • TypeScript • Redux • Tailwind CSS 
 
 - **Email:** sulymankhalil.dev@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/sulyman-khalil-6269a6250/
-- **GitHub:** https://sulymanlive.netlify.app/
+- **Phone:** +92 370 7843216
