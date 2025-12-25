@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**SulymanKhalil/SulymanKhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frontend Developer | React.js Developer
+Building scalable, production-ready web applications with clean architecture and modern tech
+### 🚀 About me
+I’m a Frontend / React Developer who enjoys building clean, responsive user interfaces. I work with modern JavaScript, React, and UI frameworks to turn ideas into functional, user-friendly web apps.
+const Sulyman = {
+  location: "Lahore, Pakistan",
+  education: "BS in Software Engineering (In Progress)",
+  currentFocus: ["Frontend Engineering", "React Ecosystem", "UI Performance & Optimization", "Modern CSS & Design Systems"],
+  interests: ["Frontend Architecture", "UI Performance Optimization", "Modern Web Technologies"],
+  philosophy: "Learning by building. Writing clean code, improving performance, and focusing on user experience.",
+  openTo: ["Frontend Internships", "Collaborations", "Open Source Contributions"]
+  hobbies: ["Cricket", "Reading", "Sketching"]
+};
