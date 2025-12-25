@@ -34,3 +34,9 @@ HTML • CSS • JavaScript • React • TypeScript • Redux • Tailwind CSS 
 - **Recipe Finder**  
   Search and explore recipes using an external API with a user-friendly interface.<br/>
   [Live Demo](https://web-find-recipes.netlify.app/) • [GitHub](https://github.com/SulymanKhalil/Recipe-Finder)
+
+### 📫 Contact
+
+- **Email:** sulymankhalil.dev@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sulyman-khalil-6269a6250/
+- **GitHub:** https://sulymanlive.netlify.app/
