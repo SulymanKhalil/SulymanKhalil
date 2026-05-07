@@ -50,7 +50,7 @@ const Sulyman = {
 
 ---
 
-### 🚀 Currently Learning
+### 🛠 Currently Working With
 
 - Advanced React patterns
 - Next.js (SSR, SSG, App Router)
