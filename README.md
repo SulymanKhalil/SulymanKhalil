@@ -7,16 +7,17 @@ Building scalable, production-ready web applications with clean architecture and
 
 ### 🚀 About Me
 
-I'm a **Frontend Engineer** who enjoys building clean, responsive user interfaces and working on real-time video streaming solutions. I work with modern JavaScript, React, Next.js, and UI frameworks — and I'm also exploring WebRTC and video streaming technologies.
+I'm a **Frontend Engineer** who enjoys building clean, responsive user interfaces and working on real-time video streaming solutions. I work with modern JavaScript, React, Next.js, and UI frameworks — and I build with WebRTC, FFmpeg, and AI-assisted development workflows.
 
 ```js
 const Sulyman = {
   location: "Lahore, Pakistan",
-  education: "BS in Software Engineering (In Progress)",
+  education: "BS in Software Engineering",
   currentFocus: [
     "Frontend Engineering",
     "React Ecosystem",
     "Video Streaming (WebRTC, FFmpeg)",
+    "AI-Assisted Development",
     "UI Performance & Optimization",
     "Modern CSS & Design Systems"
   ],
@@ -24,6 +25,7 @@ const Sulyman = {
     "Frontend Architecture",
     "UI Performance Optimization",
     "Real-Time Video Streaming",
+    "AI Tools & Developer Productivity",
     "Modern Web Technologies"
   ],
   philosophy: "Learning by building. Writing clean code, improving performance, and focusing on user experience.",
@@ -47,14 +49,15 @@ const Sulyman = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![WebRTC](https://img.shields.io/badge/WebRTC-000?style=for-the-badge&logo=webrtc)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-000?style=for-the-badge&logo=ffmpeg)
+![AI Assisted](https://img.shields.io/badge/AI--Assisted%20Dev-000?style=for-the-badge&logo=openai)
 
 ---
 
-### 🛠 Currently Working With
+### ⚡ Currently Working With
 
-- Advanced React patterns
-- Next.js (SSR, SSG, App Router)
+- Advanced React patterns & Next.js (SSR, SSG, App Router)
 - Video streaming with WebRTC & FFmpeg
+- AI-assisted development (Claude, Cursor)
 - Performance optimization
 - Clean frontend architecture
 
