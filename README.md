@@ -7,7 +7,7 @@ Building scalable, production-ready web applications with clean architecture and
 
 ### 🚀 About Me
 
-I'm a **Frontend Engineer** who enjoys building clean, responsive user interfaces and working on real-time video streaming solutions. I work with modern JavaScript, React, Next.js, and UI frameworks — and I build with WebRTC, FFmpeg, and AI-assisted development workflows.
+I'm a **Software Engineer** who enjoys building clean, responsive user interfaces and working on real-time video streaming solutions. I work with modern JavaScript, React, Next.js, and UI frameworks — and I build with WebRTC, FFmpeg, and AI-assisted development workflows.
 
 ```js
 const Sulyman = {
