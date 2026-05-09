@@ -1,4 +1,4 @@
-<h2 align="center">Frontend Engineer | Video Streamer</h2>
+<h2 align="center">Software Engineer | Video Streamer</h2>
 <p align="center">
 Building scalable, production-ready web applications with clean architecture and modern tech
 </p>
