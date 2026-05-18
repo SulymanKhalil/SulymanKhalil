@@ -43,7 +43,6 @@ const Sulyman = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
 ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
@@ -55,7 +54,7 @@ const Sulyman = {
 
 ### ⚡ Currently Working With
 
-- Advanced React patterns & Next.js (SSR, SSG, App Router)
+- React.js
 - Video streaming with WebRTC & FFmpeg
 - AI-assisted development (Claude, Cursor)
 - Performance optimization
