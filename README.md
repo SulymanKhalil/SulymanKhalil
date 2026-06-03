@@ -29,7 +29,7 @@ const Sulyman = {
     "Modern Web Technologies"
   ],
   philosophy: "Learning by building. Writing clean code, improving performance, and focusing on user experience.",
-  openTo: ["Frontend Internships", "Collaborations", "Open Source Contributions"],
+  openTo: ["Collaborations", "Open Source Contributions"],
   hobbies: ["Cricket", "Reading", "Sketching"]
 };
 ```
