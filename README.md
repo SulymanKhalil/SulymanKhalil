@@ -97,5 +97,5 @@ const Sulyman = {
 ### 📫 Contact
 
 - **Email:** sulymankhalil.dev@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/sulyman-khalil-6269a6250/
+- **LinkedIn:** https://www.linkedin.com/in/sulymankhalil/
 - **Phone:** +92 370 7843216
