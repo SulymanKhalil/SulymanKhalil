@@ -62,6 +62,13 @@ const Sulyman = {
     "Open Source",
     "Collaborations"
   ]
+
+  hobbies: [
+    "Cricket",
+    "Football",
+    "Sketching",
+    "Reading"
+  ]
 };
 ```
 
