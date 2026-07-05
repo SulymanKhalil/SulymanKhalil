@@ -1,101 +1,119 @@
-<h2 align="center">Software Engineer | Video Streamer</h2>
+<h2 align="center">Software Engineer | Full Stack & Mobile Developer</h2>
+
 <p align="center">
-Building scalable, production-ready web applications with clean architecture and modern tech
+Building scalable web and mobile applications with modern JavaScript, AI-assisted development, and clean architecture.
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-**Software Engineer** focused on building clean, responsive interfaces and real-time video streaming solutions. I work across modern JavaScript, React, and UI frameworks and reach for WebRTC, FFmpeg, and AI-assisted workflows when the problem demands it.
+Software Engineer with 1+ years of experience building modern web and mobile applications. I enjoy developing end-to-end solutions using React, Next.js, Node.js, Express.js, NestJS, and React Native while leveraging AI-assisted development workflows to improve productivity and code quality.
+
+I'm currently expanding my knowledge in system design, software architecture, and real-time video streaming with WebRTC and FFmpeg.
 
 ```js
 const Sulyman = {
   location: "Lahore, Pakistan",
-  education: "BS in Software Engineering",
-  currentFocus: [
-    "Frontend Engineering",
-    "React Ecosystem",
-    "Video Streaming (WebRTC, FFmpeg)",
-    "AI-Assisted Development",
-    "UI Performance & Optimization",
-    "Modern CSS & Design Systems"
+  education: "BS Software Engineering",
+
+  stack: {
+    frontend: [
+      "React",
+      "Next.js",
+      "JavaScript",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express.js",
+      "NestJS"
+    ],
+
+    mobile: [
+      "React Native"
+    ],
+
+    ai: [
+      "Claude",
+      "Cursor",
+      "Prompt Engineering",
+      "Context Engineering"
+    ]
+  },
+
+  currentlyLearning: [
+    "System Design",
+    "Software Architecture",
+    "WebRTC",
+    "FFmpeg"
   ],
-  interests: [
-    "Frontend Architecture",
-    "UI Performance Optimization",
-    "Real-Time Video Streaming",
-    "AI Tools & Developer Productivity",
-    "Modern Web Technologies"
-  ],
-  philosophy: "Learning by building. Writing clean code, improving performance, and focusing on user experience.",
-  openTo: ["Collaborations", "Open Source Contributions"],
-  hobbies: ["Cricket", "Reading", "Sketching"]
+
+  philosophy:
+    "Build clean, scalable software. Learn continuously. Ship with quality.",
+
+  openTo: [
+    "Full Stack Opportunities",
+    "Open Source",
+    "Collaborations"
+  ]
 };
 ```
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![WebRTC](https://img.shields.io/badge/WebRTC-000?style=for-the-badge&logo=webrtc)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-000?style=for-the-badge&logo=ffmpeg)
-![AI Assisted](https://img.shields.io/badge/AI--Assisted%20Dev-000?style=for-the-badge&logo=openai)
+### Frontend
 
----
+React • Next.js • JavaScript • TypeScript • Tailwind CSS • Bootstrap • Ant Design • Material UI
 
-### ⚡ Currently Working With
+### Backend
 
-- React.js
-- Video streaming with WebRTC & FFmpeg
-- AI-assisted development (Claude, Cursor)
-- Performance optimization
-- Clean frontend architecture
+Node.js • Express.js • NestJS • REST APIs • JWT Authentication
+
+### Mobile
+
+React Native
+
+### AI-Assisted Development
+
+Claude • Cursor • Prompt Engineering • Context Engineering • TMUX
+
+### Currently Exploring
+
+System Design • Software Architecture • WebRTC • FFmpeg
 
 ---
 
-### 🌟 Featured Projects
+## 🚀 Featured Projects
 
-- **Notes App**
-  A simple notes application to create, archive, and manage notes efficiently.
-  [Live Demo](https://notes-app-by-sulyman.netlify.app/) • [GitHub](https://github.com/SulymanKhalil/Notes-App)
+### 📝 Notes App
 
-- **Currency Converter**
-  React app for real-time currency conversion with a clean UI.
-  [Live Demo](https://convertcurrencyweb.netlify.app/) • [GitHub](https://github.com/SulymanKhalil/Currency-Converter)
+A clean and intuitive notes application focused on usability and state management.
 
-- **Recipe Finder**
-  Search and explore recipes using an external API with a user-friendly interface.
-  [Live Demo](https://web-find-recipes.netlify.app/) • [GitHub](https://github.com/SulymanKhalil/Recipe-Finder)
+### 💱 Currency Converter
 
----
+Real-time currency conversion using external APIs with a modern React interface.
 
-### ⭐ Favorite Project
+### 🍽️ Recipe Finder
 
-**Notes App** — because it focuses on real-world usability, clean state management, and simple, distraction-free UI.
+Search recipes using public APIs with a responsive and user-friendly experience.
 
 ---
 
-### 🎮 If I Were a Feature
+## 💡 Philosophy
 
-- **Type:** UI Optimization + Live Stream
-- **Status:** Always enabled
-- **Known issue:** Gets impatient with slow apps
-
-> Building reliable interfaces with clarity and purpose.
+> Build scalable software, write clean code, and never stop learning.
 
 ---
 
-### 📫 Contact
+## 📫 Contact
 
-- **Email:** sulymankhalil.dev@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/sulymankhalil/
-- **Phone:** +92 370 7843216
+📧 **Email:** [sulymankhalil.dev@gmail.com](mailto:sulymankhalil.dev@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/sulymankhalil
+
+🌐 **Portfolio:** https://sulymanlive.netlify.app
