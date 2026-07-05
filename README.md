@@ -37,10 +37,13 @@ const Sulyman = {
     ],
 
     ai: [
+"tmux"
+"Herdr"
       "Claude",
       "Cursor",
       "Prompt Engineering",
       "Context Engineering"
+"Loop Engineering"
     ]
   },
 
@@ -80,7 +83,7 @@ React Native
 
 ### AI-Assisted Development
 
-Claude • Cursor • Prompt Engineering • Context Engineering • TMUX
+Herdr • tmux • Claude • Cursor • Prompt Engineering • Context Engineering • Lopp Engineering
 
 ### Currently Exploring
 
