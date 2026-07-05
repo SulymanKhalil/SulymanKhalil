@@ -37,13 +37,13 @@ const Sulyman = {
     ],
 
     ai: [
-"tmux"
-"Herdr"
+      "Herdr"
+      "tmux"
       "Claude",
       "Cursor",
       "Prompt Engineering",
       "Context Engineering"
-"Loop Engineering"
+      "Loop Engineering"
     ]
   },
 
