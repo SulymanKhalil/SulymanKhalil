@@ -61,7 +61,7 @@ const Sulyman = {
     "Full Stack Opportunities",
     "Open Source",
     "Collaborations"
-  ]
+  ],
 
   hobbies: [
     "Cricket",
