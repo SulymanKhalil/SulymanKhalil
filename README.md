@@ -1,14 +1,14 @@
-<h2 align="center">Software Engineer | Full Stack & Mobile Developer</h2>
+<h2 align="center">Software Engineer | Full Stack Developer</h2>
 
 <p align="center">
-Building scalable web and mobile applications with modern JavaScript, AI-assisted development, and clean architecture.
+Building scalable web apps with modern JavaScript, AI-assisted development, and clean architecture.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Software Engineer with 1+ years of experience building modern web and mobile applications. I enjoy developing end-to-end solutions using React, Next.js, Node.js, Express.js, NestJS, and React Native while leveraging AI-assisted development workflows to improve productivity and code quality.
+Software Engineer with 1+ years of experience building modern web applications. I enjoy developing end-to-end solutions using React, Next.js, Node.js, Express.js, NestJS, MongoDB and PostgreSQL while leveraging AI-assisted development workflows to improve productivity and code quality.
 
 I'm currently expanding my knowledge in system design, software architecture, and real-time video streaming with WebRTC and FFmpeg.
 
@@ -84,9 +84,9 @@ React • Next.js • JavaScript • TypeScript • Tailwind CSS • Bootstrap �
 
 Node.js • Express.js • NestJS • REST APIs • JWT Authentication
 
-### Mobile
+### Database
 
-React Native
+MongoDB • PostgreSQL
 
 ### AI-Assisted Development
 
