@@ -37,8 +37,6 @@ const Sulyman = {
     ],
 
     ai: [
-      "Herdr"
-      "tmux"
       "Claude",
       "Cursor",
       "Prompt Engineering",
