@@ -88,7 +88,7 @@ MongoDB • PostgreSQL
 
 ### AI-Assisted Development
 
-Herdr • tmux • Claude • Cursor • Prompt Engineering • Context Engineering • Lopp Engineering
+Claude • Cursor • Prompt Engineering • Context Engineering • Lopp Engineering
 
 ### Currently Exploring
 
